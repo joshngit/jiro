@@ -1,0 +1,5 @@
+[
+  "function getPrice() external view returns (uint256 priceInUsd, uint256 priceInEth)",
+  "function estimate(uint256 _ethAmount) public view returns (uint256 usdAmount, uint256 tokenAmount)",
+  "function swap() external payable returns (bool)"
+]
